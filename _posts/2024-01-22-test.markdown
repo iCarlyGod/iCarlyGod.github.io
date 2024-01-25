@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "First Post"
+date:   2024-01-25 11:18:00 -0500
+categories: Test
+---
+
+Hi there.  This is my first post here, so it isn't empty when people visit this.  Honestly, I only work on this when I have downtime in my workday, so please excuse the lack of aesthetic and overall emptiness of the site for now.  I am too stupid to figure out visuals right now, and I'm more focused on getting content on the site before I try to personalize it with custom layouts and visuals.
+
+This is just to fill in (what is as of currently writing this post) the big empty white block in the middle with at least something.
+
+I'll figure out how I greet and sign off on these later too.  Anyway, g'bye.
