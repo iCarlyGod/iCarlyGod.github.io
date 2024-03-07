@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="icon" type="image/x-icon" href="/assets/img/pfpDIE.png">
+  </head>
+  <body>
+    <div style="font-size: 48px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;display: inline-block; color: rgb(251, 251, 251); background-color: rgb(0, 75, 105); border-radius: 10px; padding-left: 10px; padding-right:10px; padding-bottom:10px; width:auto;">iCarly God</div>
+    <div style="display: inline-block; width: 400px; margin-left: 50px;"><p>{% include navigation.html %}</p></div>
+    <div style="padding-top:10px">
+    <div style="background-color: aliceblue; min-height: 480px; border-radius: 10px; width:95%">{{ content }}</div>
+
+    <footer><small style="position: relative; bottom: 0;">Hosted on GitHub Pages &mdash; Current theme is a modified version from a theme by <a href="https://github.com/orderedlist">orderedlist</a></small></footer>
+
+    <style>
+      #content {
+          position: fixed;
+      }
+      #content img {
+          position: fixed;
+          bottom: 0px;
+          right: 0px;
+      }
+  </style>
+  
+  <div id="content">
+      <img src="/assets/img/pfpDIE.png" width="150" height="150"/>
+  </div>
+  
+
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

@@ -1,17 +1,21 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: About me
 ---
-
-Hi, I would say most people online know me as iCarlyGod.
-
+ 
+<div style="padding: 10px; font-size:16px"> Hi, I would say most people online know me as iCarlyGod.
+<br>
+<br>
 I am currently studying Management Engineering (AKA: the fake engineering) at the University of Waterloo and take interest in data and software development.
-
+<br>
+<br>
 My main interests are in video games.  I am a baby and an asshole, so I love beating people at party games and multiplayer games for kindergarteners.  I also like puzzle solving video games because I am a nerd.
-
+<br>
+<br>
 I've dabbled in a lot of other interests like sports, arts, and (obviously) programming.  I have a good amount in experience in a lot of different sports and I know how to play pretty much every well-known sport.  I enjoy drawing and I took some classes in ceramics in high school.  Coding is only fun for the end result and when things are working.  Otherwise, it's miserable.
-
-This site is mostly to host the blog I want to start writing about my thoughts/ideas/opinions I have on topics I think to myself on for hours and do nothing with.  I just want to do this for fun, but I also think public platforms are not ideal spaces to spew opinions.  
-
-I might use this site to host other projects in the future if I ever get to them, but for now, enjoy the blog I guess.
+<br>
+<br>
+This site is mostly to host the blog I want to start writing about my thoughts/ideas/opinions I have on topics I think to myself on for hours and do nothing with.  I just want to do this for fun, but I also think public platforms are not ideal spaces to spew opinions.
+<br>
+<br>
+I might use this site to host other projects in the future if I ever get to them, but for now, enjoy the blog I guess.</div>

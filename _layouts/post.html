@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div style="padding: 10px; min-height: 460px; margin-bottom: 50px;">
+    <h2 style="color: black;font-size: 32px;">{{ page.title }}</h1>
+
+    <small>{{ page.date | date: "%B %-d %Y" }}</small>
+    <br style="margin-bottom: 20px;">{{content}}<br>
+
+    {% if page.tags %}
+    <div>Tags: <em>{{ page.tags | join: "</em>, <em>" }}</em></div>
+    {% endif %}
+</div>
