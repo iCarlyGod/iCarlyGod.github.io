@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://icarlygod.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iCarlyGod
 github_username:  iCarlyGod
-
+future: true
 # Build settings
 
 # Exclude from processing.
