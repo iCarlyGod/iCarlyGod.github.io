@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "How to Navigate Game Balance and the Metagame"
+date:   2024-04-22 00:00:00 -0500
+tags: Video-game Esports
+---
+
+I've been watching competitive gaming since I was around 12.  I played Smash Bros. at a family new years' party and I became obsessed with it.  I started watching a billion YouTube videos on matches of the game and eventually found the competitive scene.  Since then, I've continued to follow the competitive scenes for Super Smash Bros., became a competitive Splatoon player, retired, and I now only really watch competitive games now as I turn to focus on getting a _real_ life.  
+
+Throughout my time trying to understand competitive gaming, I find that the topic of the metagame and discussions about balance are not well understood by many.  A lot of the time, less experienced players think they have a opinion of value when it comes to this stuff and it irritates me a lot because they don't understand the values of competitive games.  This is just my opinion, but I feel that people don't care for a sport they watch a lot of the time.  They just want to experience the feeling of unity in a larger group and they want something to rally behind and put their energy towards.  Not many people will care about the game they watch, but will still criticize decisions and actions of those that train their entire lives to play the game at the highest level.  
+
+I want this to serve as a reference point for education on the matter.  I get that this won't fix a problem across the board, but I hope this page gets read by those that actually care to understand the metagame and game balance and ebbs and flows of it all.  Most of my examples will be about Pokemon, because it's the most tactical game I have any amount of understanding on and it's probably also the one game most people understand at a basic level.
+
+### Let's start by explain what game balance really means
+
+Game balance doesn't mean all characters/weapons in a game are of equal power with a perfect balance of strengths and counters, as much spectators of competitive games tend to believe.  If the game balance were to reach this hypothetical state of equilibrium of all options, then the game would have to be solved and there would be no room to innovate.  From my perspective, this would be unsatisfying for both the players and the spectators as players can't express creative new ideas and spectators don't see anything out of the ordinary.  
+
+Let's take the game rock-paper-scissors as an example.  In RPS, Both players have the same options and have to perform them at the exact same time.  However, I imagine people see RPS as a "solved" game as all options are in equilibrium.  Innovation is in the mind games, but if you only every play a few rounds against people at a time once a month or so, then it's impossible to get deep into the mind games and actually gain experience and get to a point where you cna express skill.  
+
+Chess is similar in that the game is (almost) perfectly symmetrical and being a turn-based game.  However, chess has a variety of different styles and is constantly evolving in strategy within the game, in games outside the game, and the games within the game.  I often like to compare character/weapon selection in competitive video games to chess openings, because they both define the player's playstyle to some degree.  Chess openings try to get some type of initial tactical advantage similar to how video game character matchups work.  The player will pick their openings based on what they are comfortable with, what opening they think their opponent will use, and the reliability of the opening, and I would say people pick characters by the same criteria as well.  
+
+This freedom in a game to pick from a variety of options with different strengths and counters allow for what high-level players refer to as "skill expression".  The freedom for skill expression is probably the most important thing when it comes to designing a competitive game.  Skill expression is also what gives players "characters" which is an integral part of building storylines in competition.  
+
+Game balance is really about balancing the options such that players of all types of minds can express themselves to equal capacities in the game.  The relative strengths of characters is not as important when there is a character for everybody
+
+### Now let's talk about how a metagame forms from this.
+
+If you want my breakdown on what the metagame is, what components make up a metagame, and clarity on certain misconceptions when it comes to the metagame, see [this post.](https://icarlygod.github.io/2024/04/02/metagame.html)  I will talk about certain things I didn't discuss in that post, and I'll try to summarize and clarify on key ideas from the post here if you don't care about the full in-depth explanation.
+
+When you have a centralizing option in a game, everything has to play around it.  Options that counter the centralizing ones rise up until the counters to the counters emerge which then counters to the counters rise up.  Eventually, you'll have counters to counters to counters... to the initial centralizing option.  This infinite recursion in adaptation and counterplay is the metagame.
+
+The idea of counters becoming a staple in the metagame by beating the currect threats without losing to other potential threats in a layered, recursive, progression is the core of what makes a metagame so interesting and why it is a constant topic in gaming competitions.  A metagame is never "locked-in" as a breadth of options will allow for extremely specific niches and super situational sets of strengths to thrive momentarily.  A healthy metagame "breathes" and it is the breathing of the metagame that allows for interesting approaches to the metagame and seemingly "off-meta" compositions to thrive the way they do.
+
+Understanding the breathing of a metagame is important as absolute strength, comfort, and synergy are what make a team composition (or a single character in a fighting game) powerful.  The metagame only describes the relative threat levels of options in terms of their frequency, their strength, and their flexibility, so for those that actually compete in a video game, you should be focusing on picking options that you believe beat the options in the field of competition and not make the mistake of thinking "people think this is good so I should use it."  You should think more about the reasoning why the option is good.  Does it dominate in certain positions?  Does it have a response to all sorts of counterplay in other situations?  Does it have counterplay where nothing else has counterplay?  
+
+The objective concept of the metagame is a game within a game.  In this case, players are trying to win an advantage over their opponents by principle ideas of the game.  It's just like how you will bring water and grass-type Pokemon to fight against a rock-type gym leader.  Being more likely to win based on the expected outcomes of interactions in the actual game means one player is winning before the match even starts.  
+
+Gaining this advantage is the true objective of the metagame.  Usually, primary meta picks have the flexibility to be able to patch holes and address other threats in the metagame, which is why the get picked frequently.  Primary strength is important for having an easily-achievable win condition and the secondary and other options below it are supposed to enable strategies that work toward the win condition and/or remove obstacles to achieving the win condition.  
+
+Understand the layers and the inner workings of metagame progression is hard to grasp even as the person writing about it.  Don't feel bad if you don't understand quite yet.  The important idea is that the metagame is the landscape you are trying to conquer, not the one you are trying to be a part of.  Once you understand it better, you start to think about the individual interactions between options and the types of counterplay options have against each other, and then identify how to play the metagame at that point.  
